@@ -1,4 +1,7 @@
 # 9018
+TITLE: An Ultra High Gain Switched-Capacitor Boost DC-DC converter with Reduced Ripple Current
+Authors: 
+M F Baba  , A V Giridhar  , Senior Member, IEEE , B L Narasimharaju  , Senior Member, IEEE and Harish S. Krishnamoorthy   , Senior Member, IEEE
 simulation files
 DESIGN SPECIFICATIONS
 Specification	Rating	Simulation Details 
