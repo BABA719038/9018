@@ -17,4 +17,6 @@ Diodes	D0, D2, D3 (STPSC10H065)
 Switches	S1  (FDPF3860T)
 	
 	        S2  (STW28N65M2)
+
+  For the successful simulation keep the time step as 10E-7 and run the simulation for 1 to 2 sec depending on the memory size. If the memory is low on the PSIM directory go for 1 sec simulation.
 	
