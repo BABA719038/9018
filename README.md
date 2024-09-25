@@ -19,4 +19,16 @@ Switches	S1  (FDPF3860T)
 	        S2  (STW28N65M2)
 
   For the successful simulation keep the time step as 10E-7 and run the simulation for 1 to 2 sec depending on the memory size. If the memory is low on the PSIM directory go for 1 sec simulation.
-	
+
+The following are the schematic representation of the scope waveforms
+VG=GATE PULSE
+V0=OUTPUT VOLTAGE
+VC1-3=CAPACITOR C1-C3 VOLTAGES
+VD0-VD3=DIODE D1-D3 VOLTAGES
+VS1-2= SWITCH 1 & 2 VOLTAGES
+I(D0)-I(D3)=DIODE CURRENTS
+I(S1)-I(S2)= SWITCH CURRENTS
+I(C0), I(RC1)-I(RC3)=CAPACITOR CURRENTS
+I(RL1)-I(RL2)=INDUCTOR CURRENTS
+I(R1)=LOAD CURRENT
+
